@@ -63,3 +63,23 @@ th, td {
     padding: 10px 25px;
     
 }
+
+.video {
+    position: relative;
+}
+
+.shadow {
+    border: 3px solid slateblue;
+    box-shadow: 5px 10px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.shadow p {
+    padding: 0 20px 0 20px;
+}
+
+.shadow p:hover {
+    text-align: right;
+    color: #f424a5;
+}
